@@ -1,1 +1,2 @@
- basics shell commads folder
+ 0x00 Shell Basics project
+
